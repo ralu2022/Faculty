@@ -1,4 +1,4 @@
-                       HOMEWORKS & PROJECTS 
+HOMEWORKS & PROJECTS 
 ---------------------------------------------------------
 
 |    CONTENT    |    LINK       | DESCRIPTION | LANGUAGE |
