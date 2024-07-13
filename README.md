@@ -1,9 +1,9 @@
-HOMEWORKS & PROJECTS (C++)
+HOMEWORKS & PROJECTS 
 ---------------------
 
-|    CONTENT   |    LINK       | DESCRIPTION |
-| -------------| ------------- | ----------- |
-|   FIRST YEAR | ------------- | ----------- |
-| -------------| ------------- | ----------- |
+|    CONTENT   |    LINK       | DESCRIPTION | LANGUAGE |
+| -------------| ------------- | ----------- |----------|
+|   FIRST YEAR |                                        |
+| -------------| ---------------------------------------|
 | Fundamental alghoritms  |  |             |
 | Content Cell  | Content Cell  |             |
