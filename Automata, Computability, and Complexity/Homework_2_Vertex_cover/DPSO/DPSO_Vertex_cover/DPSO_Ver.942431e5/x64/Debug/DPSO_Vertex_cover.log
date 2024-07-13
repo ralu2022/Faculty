@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\1. Facultatea de  Informatica (Info ID)\Anul II\3. Automate\Teme\2. Tema 2\DPSO\DPSO_Vertex_cover\Source.cpp(53,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  DPSO_Vertex_cover.vcxproj -> D:\1. Facultatea de  Informatica (Info ID)\Anul II\3. Automate\Teme\2. Tema 2\DPSO\DPSO_Vertex_cover\x64\Debug\DPSO_Vertex_cover.exe

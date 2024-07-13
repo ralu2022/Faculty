@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\1. Facultatea de  Informatica (Info ID)\Anul II\3. Automate\Teme\2. Tema 2\AG_Vertex_cover\AG_Vertex_cover\Source.cpp(125,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AG_Vertex_cover.vcxproj -> D:\1. Facultatea de  Informatica (Info ID)\Anul II\3. Automate\Teme\2. Tema 2\AG_Vertex_cover\AG_Vertex_cover\x64\Debug\AG_Vertex_cover.exe
