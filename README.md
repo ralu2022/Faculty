@@ -23,5 +23,6 @@ HOMEWORKS & PROJECTS
 | II.7. Dynamic Systems Simulation|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Dynamic%20Systems%20Simulation|Differential equations solved in Python|Python, Jupiter|
 | II.8. Formal Languages and Compilers|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Formal%20Languages%20and%20Compilers|Finite automata, regex|C++|
 | II.9. Graph Algorithms|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Graph%20Algorithms|Graph theory and algorithms|C++|
-| II.10. Programming Environments and Tools|Programming Environments and Tools|
+| II.10. Programming Environments and Tools|[Programming Environments and Tools|](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Programming%20Environments%20and%20Tools)|Java programming, key concepts|Java, Eclpise|
+| II.11. Programming Visual Environments|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Programming%20Visual%20Environments|CSharp - syntax| C#, SQL Server Management Studio|
 
