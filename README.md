@@ -18,7 +18,10 @@ HOMEWORKS & PROJECTS
 | II.2. Cloud Computing|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Cloud%20Computing|Konwledgment about IAAS, PAAS, SAAS and Google Cloud Platform|-|
 | II.3. Computer Game Development|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Computer%20Game%20Development|Basic learning about game programming in Java|VRML, Greenfoot, Gimp|
 | II.4. Computer Networks|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Computer%20Networks|Basic knowledge about computer networks|C++, Java|
-| II.5. Databases| https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Databases|CRUD operations on databases, including data manipulation functions|sql, MySQL|
+| II.5. Databases| https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Databases|CRUD operations on databases, including data manipulation functions|Sql, MySQL|
 | II.6. Digital Image Processing|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Digital%20Image%20Processing|Algorithms design for image processing|C#|
-| II.7. 
+| II.7. Dynamic Systems Simulation|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Dynamic%20Systems%20Simulation|Differential equations solved in Python|Python, Jupiter|
+| II.8. Formal Languages and Compilers|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Formal%20Languages%20and%20Compilers|Finite automata, regex|C++|
+| II.9. Graph Algorithms|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Graph%20Algorithms|Graph theory and algorithms|C++|
+| II.10. Programming Environments and Tools|Programming Environments and Tools|
 
