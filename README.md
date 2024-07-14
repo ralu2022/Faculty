@@ -1,7 +1,7 @@
 HOMEWORKS & PROJECTS 
 ---------------------------------------------------------
 
-|    CONTENT    |    LINK       | DESCRIPTION | PROGRAMMING LANGUAGE|
+|    CONTENT    |    LINK       | DESCRIPTION | PROGRAMMING LANGUAGE AND TOOLS|
 |---------------|---------------|-------------|----------|
 | I. FIRST YEAR |                                        |
 | I.1. Academic Writing and Professional Ethics|https://github.com/ralu2022/Faculty/tree/deac0ddaa06cb44f8423f8fd1f4edd0ff30f8b75/Academic%20Writing%20and%20Professional%20Ethics| |-|
@@ -13,4 +13,12 @@ HOMEWORKS & PROJECTS
 | I.7. Mathematical analysis|https://github.com/ralu2022/Faculty/tree/deac0ddaa06cb44f8423f8fd1f4edd0ff30f8b75/Mathematical%20analysis| |-|
 | I.8. Object Oriented Programming (OOP)|https://github.com/ralu2022/Faculty/tree/deac0ddaa06cb44f8423f8fd1f4edd0ff30f8b75/Object%20Oriented%20Programming%20(OOP)| |C++|
 | I.9. Operating Systems|https://github.com/ralu2022/Faculty/tree/deac0ddaa06cb44f8423f8fd1f4edd0ff30f8b75/Operating%20Systems| |-|
+| II. SECOND YEAR |                                        |
+| II.1. Automata, Computability, and Complexity|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Automata%2C%20Computability%2C%20and%20Complexity|Deep dive into genetic and nature based algorithms|C++|
+| II.2. Cloud Computing|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Cloud%20Computing|Konwledgment about IAAS, PAAS, SAAS and Google Cloud Platform|-|
+| II.3. Computer Game Development|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Computer%20Game%20Development|Basic learning about game programming in Java|VRML, Greenfoot, Gimp|
+| II.4. Computer Networks|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Computer%20Networks|Basic knowledge about computer networks|C++, Java|
+| II.5. Databases| https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Databases|CRUD operations on databases, including data manipulation functions|sql, MySQL|
+| II.6. Digital Image Processing|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Digital%20Image%20Processing|Algorithms design for image processing|C#|
+| II.7. 
 
