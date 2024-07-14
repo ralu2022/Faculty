@@ -16,7 +16,7 @@ HOMEWORKS & PROJECTS
 | II. SECOND YEAR |                                        |
 | II.1. Automata, Computability, and Complexity|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Automata%2C%20Computability%2C%20and%20Complexity|Deep dive into genetic and nature based algorithms|C++|
 | II.2. Cloud Computing|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Cloud%20Computing|Konwledgment about IAAS, PAAS, SAAS and Google Cloud Platform|-|
-| II.3. Computer Game Development|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Computer%20Game%20Development|Basic learning about game programming in Java|VRML, Greenfoot, Gimp|
+| II.3. Computer Game Development|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Computer%20Game%20Development|Basic learning about game programming in Java|Greenfoot,Scratch|
 | II.4. Computer Networks|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Computer%20Networks|Basic knowledge about computer networks|C++, Java|
 | II.5. Databases| https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Databases|CRUD operations on databases, including data manipulation functions|Sql, MySQL|
 | II.6. Digital Image Processing|https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Digital%20Image%20Processing|Algorithms design for image processing|C#|
